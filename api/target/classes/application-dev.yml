@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    druid:
+      url: jdbc:mysql://localhost:3306/zlp
+      username: root
+      password: kingdee
+
+server:
+  port: 1011
