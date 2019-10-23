@@ -35,8 +35,25 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/api/src/main/java/com/controller/TestController.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
             <state relative-caret-position="149">
               <caret line="23" selection-start-line="23" selection-end-line="23" />
+=======
+            <state relative-caret-position="179">
+              <caret line="19" column="40" lean-forward="true" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/entity/src/main/java/com/entity/Student.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="21" column="42" lean-forward="true" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
+>>>>>>> Stashed changes
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -100,13 +117,17 @@
         <option value="$PROJECT_DIR$/src/main/java/com/cloud/Application.java" />
         <option value="$PROJECT_DIR$/entity/pom.xml" />
         <option value="$PROJECT_DIR$/utils/src/main/java/com/utils/StringUtils.java" />
-        <option value="$PROJECT_DIR$/entity/src/main/java/com/entity/Student.java" />
         <option value="$PROJECT_DIR$/api/src/main/java/com/App.java" />
         <option value="$PROJECT_DIR$/api/src/main/resources/application.html" />
         <option value="$PROJECT_DIR$/api/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/api/src/main/resources/application-dev.yml" />
-        <option value="$PROJECT_DIR$/api/src/main/java/com/controller/TestController.java" />
         <option value="$PROJECT_DIR$/api/pom.xml" />
+<<<<<<< Updated upstream
+=======
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/api/src/main/java/com/controller/TestController.java" />
+        <option value="$PROJECT_DIR$/entity/src/main/java/com/entity/Student.java" />
+>>>>>>> Stashed changes
       </list>
     </option>
   </component>
@@ -359,12 +380,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571723254832</updated>
+<<<<<<< Updated upstream
       <workItem from="1571723256419" duration="8992000" />
+=======
+      <workItem from="1571723256419" duration="10247000" />
+>>>>>>> Stashed changes
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< Updated upstream
     <option name="totallyTimeSpent" value="8992000" />
+=======
+    <option name="totallyTimeSpent" value="10247000" />
+>>>>>>> Stashed changes
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -376,7 +405,7 @@
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Web" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20499243" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20499243" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Spring" />
       <window_info anchor="bottom" id="Terminal" />
@@ -388,7 +417,11 @@
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329806" />
+<<<<<<< Updated upstream
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.25044093" />
+=======
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.37213403" />
+>>>>>>> Stashed changes
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -486,16 +519,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/entity/src/main/java/com/entity/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/api/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
@@ -529,10 +552,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/entity/src/main/java/com/entity/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="21" column="42" lean-forward="true" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/api/src/main/java/com/controller/TestController.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state relative-caret-position="149">
           <caret line="23" selection-start-line="23" selection-end-line="23" />
+=======
+        <state relative-caret-position="179">
+          <caret line="19" column="40" lean-forward="true" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+>>>>>>> Stashed changes
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
