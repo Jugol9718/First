@@ -18,7 +18,7 @@ public class TestController {
     @ResponseBody
     public String test(){
         Student student = new Student();
-        return "student";
+        return student.toString();
     }
 
 }
